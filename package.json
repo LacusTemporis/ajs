@@ -1,0 +1,19 @@
+{
+  "name": "@lacustemporis/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LacusTemporis/ajs.git"
+  },
+  "author": "Evgeniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LacusTemporis/ajs/issues"
+  },
+  "homepage": "https://github.com/LacusTemporis/ajs#readme",
+  "description": ""
+}
